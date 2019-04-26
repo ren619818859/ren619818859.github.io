@@ -78,9 +78,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/ren619818859/ren619818859.github.io
-  branch: master
+  type:
 
 #search
 search:
