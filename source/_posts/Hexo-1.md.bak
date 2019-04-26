@@ -42,14 +42,14 @@ ln -s /“你的node.js文件夹/bin/”
 # Linux上部署的Hexo备份到GitHub
 ## 首先我们得申请一个GitHub
 进入[GitHub官网](https://github.com/)
-![github申请账号](../Hexo-1/username.png)
+![github申请账号](../Hexo-Next-view-tags-and-categories/username.png)
 ** 注意：如果你不想买域名的话，以后此博客的域名类似于你申请的账号也就是uesrname **
 邮箱验证很简单
 ## GitHub博客仓库的建立
 点击右上角的New repository 如图:
-![pic-1](../Hexo-1/p-1.png)
+![pic-1](../Hexo-Next-view-tags-and-categories/p-1.png)
 注意仓库名称一定是你的**用户名.github.io** 具体操作如图：
-![pic-2](../Hexo-1/p-2.png)
+![pic-2](../Hexo-Next-view-tags-and-categories/p-2.png)
 ## 关联GitHub远程和本地仓库
 - 设置Git的用户名和email
 ```
@@ -61,8 +61,8 @@ git config --global user.email "你注册Github使用的邮箱"
 ssh-keygen -t rsa -C "你注册Github使用的邮箱"
 ```
 找到生成的ssh密钥，复制其中全部内容到如图位置下：
-![pic-3](../Hexo-1/p-3.png)
-![pic-4](../Hexo-1/p-4.png)
+![pic-3](../Hexo-Next-view-tags-and-categories/p-3.png)
+![pic-4](../Hexo-Next-view-tags-and-categories/p-4.png)
 ## 配置Deploy
 vim博客站点_config.yml文件，找到deploy，修改为
 ```
