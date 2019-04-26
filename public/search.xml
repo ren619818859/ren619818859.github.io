@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo-4]]></title>
+    <url>%2F2019%2F04%2F23%2FHexo-4%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo-3]]></title>
+    <url>%2F2019%2F04%2F23%2FHexo-3%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo-2]]></title>
     <url>%2F2019%2F04%2F23%2FHexo-2%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>Hexo Next主题Blog搭建心得</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[Hexo Next-1 GitHub+linux+hexo]]></title>
